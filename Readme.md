@@ -2,7 +2,7 @@
 
 - Todo o projeto foi desenvolvido em **Python 3** e **Google Colab** (https://colab.research.google.com).
 - As fontes dos dados foram planilhas de uma loja fictícia com o nome Alura Store com o CEO Sr João.
-- As plam=nilhas a mim compartilhada teve a finalidade de treinamento de análise de dados com a linguagem Python.
+- As planilhas a mim compartilhada teve a finalidade de treinamento de análise de dados com a linguagem Python.
 - A Conclusão do projeto encontra- se no final desta apresentação.
 
 
@@ -18,7 +18,7 @@ git clone https://github.com/DavidSilvaDF/Challenger-Data-Science-AluraStore
   - `numpy`
   - `seaborn` 
 
-Você pode instalar bibliotecas no Colab com:
+Você pode instalar bibliotecas no Colab com o comando "!pip install conforme o exemplo abaixo:
 ```python
 !pip install pandas matplotlib seaborn
 ```
@@ -54,10 +54,10 @@ Levando em consideração, as métricas utilizadas como faturamento total, categ
 ## 📊 Gráficos e Insights
 
 - Gráfico pizza demostrando a venda geral e a participação de cada loja. 
-- Loja com maior venda é a Loja 1 com o total de venda R$ 1,534,509.12 que representa 26,1% do geral de vendas e a Loja com menor venda é a loja 4 com a venda de R$ 1,384,497.58 na qual representa 23,6% 
+- Loja com maior venda é a Loja 1 com o total de venda R$ 1,534,509.12 que representa 26,1% do geral de vendas e a Loja com menor venda é a Loja 4 com a venda de R$ 1,384,497.58 na qual representa 23,6% 
 
 
-****Gráfico em pizza de venda total ****
+![Exibe gráfico faturamento por Loja](images/faturamento_loja.png)
 
 Faturamento total por loja:
 Loja 1: R$ 1,534,509.12
@@ -67,26 +67,25 @@ Loja 4: R$ 1,384,497.58
 
 ## Vendas por categoria:
 
-- Ao analisarmos cada categorias podemos analisar que a Loja 4 vende bem em alguns setores, mas ao analisarmos detalhadamente, no faturamento total a mesma tem uma venda significativamente menor veja na imagem abaixo:
+- Ao analisarmos cada categorias podemos analisar que a Loja 4 vende bem em alguns setores, mas ao analisarmos detalhadamente, no faturamento total, a mesma tem uma venda significativamente menor conforme a imagem abaixo:
 
-****Imagem do gráfico de vendas por categoria****
 
+![Exibe gráfico Vendas por categoria](images/Vendas por categoria.png)
 
 A diferença de vendas entre as Lojas 1 e 4 é de R$150.011,54 
 
+![Exibe tabela em excel](images/Tabela_excel_vendas.png) 
 
-****imagem em excel demostrando cada venda****
-
--A Loja 1 vende R$150.011,54 a mais que a Loja 4. pois é uma diferença muito significativa, que no final de um ano de R$1.800.138,48 que representa 8,33% de venda a mais que a venda mensal da loja 1 na qual é a loja de maior venda entre as quatro lojas.
+-A Loja 1 vende R$150.011,54 a mais que a Loja 4. pois é uma diferença muito significativa, que no final de um ano de R$1.800.138,48 que representa 8,33% de venda a mais que a venda mensal da Loja 1 na qual é a loja de maior venda entre as quatro lojas.
 
 
 ## Avaliação de clientes por loja.
 
 
-Ao analisarmos a comparação de avaliação dos clientes de cada loja, percebemos que o senhor João tem uma equipe bem treinada, onde as avaliações dos clientes são bem parecidas.
+Ao analisarmos a comparação de avaliação dos clientes de cada loja, percebemos que o senhor João tem uma equipe bem treinada, onde ao meu ver segue um padrão onde as avaliações dos clientes são bem parecidas.
 
 
-****Gráfico de barras da Avaliação Média por Loja****
+![Exibe gráfico Avaliação de média por categoria](images/Avaliacao_media_loja.png)
 
 Avaliação média por loja:
 - Loja 1: 3.98
@@ -94,25 +93,27 @@ Avaliação média por loja:
 - Loja 3: 4.05
 - Loja 4: 4.00
 
+Embora que as avaliações de clientes são muito significativa, neste caso expecífico não é um ponto crucial para que seja realizado a venda da loja
 
 ## Produtos mais e menos vendidos.
 
-**** Grafico de produtos mais e manos vendidos****
+![Exibe gráfico Avaliação de média por categoria](images/produtos_mais_e_menos_vendidos.png)
 
-- Ao analisar os produtos mais e menos vendidos, vemos que na Loja 1 temos produtos como guardarroupas a venda é bem significativa (60x) enquanto o Celular ABXY (33x), conhecendo o mercado de vendas, a venda de celular tinha que ser bem mais acentuada e do guardarroupa. porém a margem de venda é bem maior a do gaurdarroupa trazendo a venda bem mais saudável.
+- Ao analisar os produtos mais e menos vendidos, vemos que na Loja 1 temos produtos como guardarroupas a venda é bem significativa (60x) enquanto o Celular ABXY (33x). Conhecendo o mercado de vendas, a venda de celular tinha que ser bem mais acentuada comparando com o guardarroupa. Porém a margem de venda é bem maior a do gaurdarroupa trazendo a venda bem mais saudável.
 
 - Analisando a Loja 4 o produto mais vendido foi a cama box (62x) e menos vendido a Guitarra (33x), porém a guitarra a recorrência de vendas é bem menor que a de um celular (comparando a Loja 1) e a cama box a recorrência de venda também é menor que um guardarroupa (comparando a Loja 1).
 
 
 ## Frete médio por loja.
 
-![Exibe a média do Frete por Loja](images/frete_medio_loja.png)
+
 - Levando em consideração que a visualmente não é tão perceptível a diferença. Pois a diferença é de somente R$3,41 (três reais e quarenta e um centavos), mas a loja 4 está com a menor venda e assim comparando a loja 4, o frete é maior que a da loja 1 
 
-
+![Exibe a média do Frete por Loja](images/frete_medio_loja.png)
 
 
 ## 🔍 **Principais Insights**:
+
 - A **Loja 4** apresentou o menor faturamento total.
 - Categorias de maior faturamento foram **Eletrônicos** e **Eletrodomésticos** para todas as lojas.
 
@@ -120,4 +121,4 @@ Avaliação média por loja:
 
 ##  Conclusão:
 
-Levando em consideração a todos os dados acima citado, conclui-se que a Loja 4 do senhor João deverá ser vendida, para que o ele possa dar prosseguimento no seu investimento, pois a loja 4 tem a venda menor venda e o seu lucro menor que as demais lojas.
+Levando em consideração a todos os dados acima citado, conclui-se que a Loja 4 do senhor João deverá ser vendida, para que o ele possa dar prosseguimento no seu investimento, pois a loja 4 tem a menor venda e o seu lucro menor que as demais lojas.
