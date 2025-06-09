@@ -57,7 +57,7 @@ Levando em consideração, as métricas utilizadas como faturamento total, categ
 - Loja com maior venda é a Loja 1 com o total de venda R$ 1,534,509.12 que representa 26,1% do geral de vendas e a Loja com menor venda é a Loja 4 com a venda de R$ 1,384,497.58 na qual representa 23,6% 
 
 
-![Exibe gráfico faturamento por Loja](images/faturamento_loja_.png)
+![Exibe gráfico faturamento por Loja](images/faturamento_loja.png)
 
 
 
