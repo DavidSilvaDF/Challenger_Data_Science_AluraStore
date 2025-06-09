@@ -70,7 +70,9 @@ Loja 4: R$ 1,384,497.58\n
 - Ao analisarmos cada categorias podemos analisar que a Loja 4 vende bem em alguns setores, mas ao analisarmos detalhadamente, no faturamento total, a mesma tem uma venda significativamente menor conforme a imagem abaixo:
 
 
-![Exibe gráfico Vendas por categoria](images/Vendas_por_categoria.png)
+![Exibe gráfico Vendas por categoria](images/Vendas_categoria.png)
+
+Percebe-se que as vendas das categorias de maior valor estão destacadas na cor azul e as de menor valor na cor vermelha.
 
 A diferença de vendas entre as Lojas 1 e 4 é de R$150.011,54 
 
