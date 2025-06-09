@@ -8,7 +8,7 @@
 
 ### 1. Clonar o repositório (se estiver usando GitHub)
 ```bash
-git clone https://github.com/DavidSilvaDF/Challenger-Data-Science-AluraStore
+git clone https://github.com/DavidSilvaDF/Challenger_Data_Science_AluraStore
 ```
 ### 2. Acessar o Colab
 - Abrir o arquivo `AluraStoreBr.ipynb` no **Google Colab**. 
@@ -59,18 +59,18 @@ Levando em consideração, as métricas utilizadas como faturamento total, categ
 
 ![Exibe gráfico faturamento por Loja](images/faturamento_loja.png)
 
-Faturamento total por loja:
-Loja 1: R$ 1,534,509.12
-Loja 2: R$ 1,488,459.06
-Loja 3: R$ 1,464,025.03
-Loja 4: R$ 1,384,497.58
+Faturamento total por loja:\n
+Loja 1: R$ 1,534,509.12\n
+Loja 2: R$ 1,488,459.06\n
+Loja 3: R$ 1,464,025.03\n
+Loja 4: R$ 1,384,497.58\n
 
 ## Vendas por categoria:
 
 - Ao analisarmos cada categorias podemos analisar que a Loja 4 vende bem em alguns setores, mas ao analisarmos detalhadamente, no faturamento total, a mesma tem uma venda significativamente menor conforme a imagem abaixo:
 
 
-![Exibe gráfico Vendas por categoria](images/Vendas por categoria.png)
+![Exibe gráfico Vendas por categoria](images/Vendas_por_categoria.png)
 
 A diferença de vendas entre as Lojas 1 e 4 é de R$150.011,54 
 
@@ -82,7 +82,7 @@ A diferença de vendas entre as Lojas 1 e 4 é de R$150.011,54
 ## Avaliação de clientes por loja.
 
 
-Ao analisarmos a comparação de avaliação dos clientes de cada loja, percebemos que o senhor João tem uma equipe bem treinada, onde ao meu ver segue um padrão onde as avaliações dos clientes são bem parecidas.
+Ao analisarmos a comparação de avaliação dos clientes de cada loja, percebemos que o senhor João tem uma equipe bem treinada, onde ao meu ver segue um padrão onde as avaliações dos clientes são bem parecidas com a média geral de 4,02.
 
 
 ![Exibe gráfico Avaliação de média por categoria](images/Avaliacao_media_loja.png)
