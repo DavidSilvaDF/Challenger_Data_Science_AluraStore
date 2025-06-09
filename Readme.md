@@ -59,11 +59,7 @@ Levando em consideração, as métricas utilizadas como faturamento total, categ
 
 ![Exibe gráfico faturamento por Loja](images/faturamento_loja.png)
 
-Faturamento total por loja:\n
-Loja 1: R$ 1,534,509.12\n
-Loja 2: R$ 1,488,459.06\n
-Loja 3: R$ 1,464,025.03\n
-Loja 4: R$ 1,384,497.58\n
+
 
 ## Vendas por categoria:
 
