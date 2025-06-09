@@ -72,11 +72,12 @@ Loja 4: R$ 1,384,497.58\n
 
 ![Exibe gráfico Vendas por categoria](images/Vendas_categoria.png)
 
-Percebe-se que as vendas das categorias de maior valor estão destacadas na cor azul e as de menor valor na cor vermelha.
 
 A diferença de vendas entre as Lojas 1 e 4 é de R$150.011,54 
 
-![Exibe tabela em excel](images/Tabela_excel_vendas.png) 
+![Exibe tabela em excel](images/Tabela_excel_vendas.png)
+
+-As maiores vendas das categorias estão destacadas na cor azul e as vendas de menor valor estão destacadas de vermelho, e a ultima coluna destacando quais as lojas de maior e menor vendas.
 
 -A Loja 1 vende R$150.011,54 a mais que a Loja 4. pois é uma diferença muito significativa, que no final de um ano de R$1.800.138,48 que representa 8,33% de venda a mais que a venda mensal da Loja 1 na qual é a loja de maior venda entre as quatro lojas.
 
