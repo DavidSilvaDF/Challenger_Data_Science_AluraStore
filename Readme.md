@@ -106,7 +106,7 @@ Avaliação média por loja:
 
 ## Frete médio por loja.
 
-![Exibe a média do Frete por Loja](frete_medio_loja.png)
+![Exibe a média do Frete por Loja](images/frete_medio_loja.png)
 - Levando em consideração que a visualmente não é tão perceptível a diferença. Pois a diferença é de somente R$3,41 (três reais e quarenta e um centavos), mas a loja 4 está com a menor venda e assim comparando a loja 4, o frete é maior que a da loja 1 
 
 
